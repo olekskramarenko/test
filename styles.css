@@ -73,23 +73,23 @@ body {
     background-color: #db4a39;
 }
 .top-bar__social-links_linken-in {
-    background: url(/images/icon-linkedin.png) no-repeat 50% 50%;
+    background: url(images/icon-linkedin.png) no-repeat 50% 50%;
     background-size: 16px 16px;
 }
 .top-bar__social-links_twitter {
-    background: url(/images/icon-twitter.png) no-repeat 50% 50%;
+    background: url(images/icon-twitter.png) no-repeat 50% 50%;
     background-size: 16px 16px;
 }
 .top-bar__social-links_pinterest {
-    background: url(/images/icon-pinterest.png) no-repeat 50% 50%;
+    background: url(images/icon-pinterest.png) no-repeat 50% 50%;
     background-size: 16px 16px;
 }
 .top-bar__social-links_gplus {
-    background: url(/images/icon-google-plus.png) no-repeat 50% 50%; 
+    background: url(images/icon-google-plus.png) no-repeat 50% 50%; 
     background-size: 16px 16px;   
 }
 .top-bar__social-links_rss {
-    background: url(/images/icon-rss.png) no-repeat 50% 50%;
+    background: url(images/icon-rss.png) no-repeat 50% 50%;
     background-size: 16px 16px;
 }
 
